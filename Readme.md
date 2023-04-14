@@ -25,8 +25,6 @@ I'm a **former** student from **Instituto PROA**.
 
 Bootstrap  
 
-https://icons8.com/icon/114445/linkedin-circled
 
-![The San Juan Mountains are beautiful!](https://icons8.com/icon/114445/linkedin-circled "San Juan Mountains")
 
 
