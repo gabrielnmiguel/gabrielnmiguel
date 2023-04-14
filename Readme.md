@@ -5,7 +5,7 @@ I'm studying **HTML**, **CSS**, **JavaScript**, **Bootstrap** and **React**.
 I'm a **former** student from **Instituto PROA**.  
   
   
-**[LinkedIn](https://www.linkedin.com/in/gabriel-miguel/)"Here you'll find everything about me!!"**  
+**[LinkedIn](https://www.linkedin.com/in/gabriel-miguel/ "Here you'll find everything about me!!")**  
 
 
 ### Markup Languages
