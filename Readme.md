@@ -10,15 +10,15 @@ I'm a **former** student from **Instituto PROA**.
 
 ### Markup Languages
 
-HTML  
-Markdown  
+- HTML  
+- Markdown  
 
 
 ### Programming Languages
 
-JavaScript  
-Python  
-JAVA  
+- JavaScript  
+- Python  
+- JAVA  
 
 
 ### Frameworks
