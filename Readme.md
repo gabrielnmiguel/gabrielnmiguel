@@ -25,6 +25,6 @@ I'm a **former** student from **Instituto PROA**.
 
 Bootstrap  
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://www.flickr.com/photos/laurinovakphotography/52817062559/in/photolist-2osWB1C-2otgfzD-2n2NBNp-qZmQmM-2or6fnE-25Q1H3x-2orntZe-2orRxSK-2os1QNX-2kwhQJB-2osVsv9-2mNMLAG-2nVgeyi-2orGdhc-2orQgh8-2odZhp5-2i4ZobH-2o3TVhS-2osbVB5-JFh7uN/ "San Juan Mountains")
 
 
