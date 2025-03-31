@@ -1,7 +1,41 @@
 [Português]() / [English]()
 
 # Olá, me chamo Gabriel Miguel!! {#portugueseTitle}
-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
 
 
 
