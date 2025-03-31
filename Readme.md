@@ -1,4 +1,17 @@
-# Hello There, call me Gabriel Miguel!!
+[Português]() / [English]()
+
+# Olá, me chamo Gabriel Miguel!! {#portugueseTitle}
+
+
+
+
+
+
+
+
+
+
+# Hello There, call me Gabriel Miguel!! {#englishTitle}
 
 I'm a **front-end developer**!  
 I'm studying **HTML**, **CSS**, **JavaScript**, **Bootstrap** and **React**.  
@@ -25,6 +38,6 @@ I'm a **former** student from **Instituto PROA**.
 
 Bootstrap  
 
-
+    
 
 
