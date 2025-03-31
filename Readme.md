@@ -1,9 +1,9 @@
 [Português](#portugueseTitle) / [English](#englishTitle)
 
-# Olá, me chamo Gabriel Miguel!! {#portugueseTitle}
+# [Olá, me chamo Gabriel Miguel!!] {#portugueseTitle}
 -
 -
--
+-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielnmiguel)](https://github.com/anuraghazra/github-readme-stats)
 -
 -
 -
@@ -55,22 +55,21 @@ I'm a **former** student from **Instituto PROA**.
 **[LinkedIn](https://www.linkedin.com/in/gabriel-miguel/ "Here you'll find everything about me!!")**  
 
 
-### Markup Languages
-
-- HTML  
-- Markdown  
-
-
-### Programming Languages
-
-- JavaScript  
-- Python  
-- JAVA  
+> ### Markup Languages
+>
+> - HTML  
+> - Markdown  
 
 
-### Frameworks
+> ### Programming Languages
+> 
+> - JavaScript  
+> - JAVA  
+> - Python 
 
-Bootstrap  
+> ### Frameworks
+> 
+> - Bootstrap  
 
     
 
