@@ -1,4 +1,4 @@
-[Português]() / [English]()
+[Português](#portugueseTitle) / [English](#englishTitle)
 
 # Olá, me chamo Gabriel Miguel!! {#portugueseTitle}
 -
