@@ -1,6 +1,6 @@
 [Português](https://github.com/gabrielnmiguel#olá-me-chamo-gabriel-miguel-portuguesetitle) / [English](https://github.com/gabrielnmiguel#hello-there-call-me-gabriel-miguel-englishtitle)
 
-# [Olá, me chamo Gabriel Miguel!!] {#portugueseTitle}
+# Olá, me chamo Gabriel Miguel!! {#portuguesetitle}
 -
 -
 
@@ -65,7 +65,7 @@ Sinta-se à vontade em conhece-lo.
 
 
 
-# Hello There, call me Gabriel Miguel!! {#englishTitle}
+# Hello There, call me Gabriel Miguel!! {#english-id}
 
 I'm a **front-end developer**!  
 I'm studying **HTML**, **CSS**, **JavaScript**, **Bootstrap** and **React**.  
