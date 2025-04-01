@@ -1,19 +1,22 @@
-[Português](https://github.com/gabrielnmiguel#olá-me-chamo-gabriel-miguel) / [English](https://github.com/gabrielnmiguel#hello-there-call-me-gabriel-miguel)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielnmiguel&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+## Curioso sobre meu portfólio? Sinta-se à vontade em conhece-lo.
+
+[Página Web](https://gabrielnmiguel.github.io/portfolio/ "Clique aqui")
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielnmiguel&repo=portfolio)](https://github.com/gabrielnmiguel/portfolio)
+
+
+
+### [Português](https://github.com/gabrielnmiguel#olá-me-chamo-gabriel-miguel) / [English](https://github.com/gabrielnmiguel#hello-there-call-me-gabriel-miguel)
 
 # Olá, me chamo Gabriel Miguel!!
 -
 -
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielnmiguel&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-Curioso sobre meu portfólio? 
-Sinta-se à vontade em conhece-lo.
-
-[Página Web](https://gabrielnmiguel.github.io/portfolio/ "Clique aqui")
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielnmiguel&repo=portfolio)](https://github.com/gabrielnmiguel/portfolio)
 
 
 
