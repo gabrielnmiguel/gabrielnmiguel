@@ -3,6 +3,10 @@
 Testando link
 https://www.youtube.com/watch?v=X9Q-ZljAC2A
 
+e
+
+`https://www.youtube.com/watch?v=X9Q-ZljAC2A`
+
 Curioso sobre meu portfólio? Sinta-se à vontade em conhece-lo.
 
 [Página Web](https://gabrielnmiguel.github.io/portfolio/ "Clique aqui")
