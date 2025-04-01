@@ -1,4 +1,4 @@
-[Português](https://github.com/gabrielnmiguel#olá-me-chamo-gabriel-miguel-portuguesetitle) / [English](https://github.com/gabrielnmiguel#hello-there-call-me-gabriel-miguel-englishtitle)
+[Português](https://github.com/gabrielnmiguel#olá-me-chamo-gabriel-miguel) / [English](https://github.com/gabrielnmiguel#hello-there-call-me-gabriel-miguel)
 
 # Olá, me chamo Gabriel Miguel!!
 -
