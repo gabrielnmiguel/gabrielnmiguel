@@ -13,13 +13,13 @@
 
 
 
-### [Português](https://github.com/gabrielnmiguel#olá-me-chamo-gabriel-miguel) / [English](https://github.com/gabrielnmiguel#hello-there-call-me-gabriel-miguel)
+### [Versão em Português](#portugueseSection) / [English](#englishSection)
 
 ## Bem-vindo ao meu GitHub! {#portugueseSection}
 
-Eu utilizarei esse ambiente para reunir aqui alguns projetos que julgo relevante, e aproveitarei para partilhar eles com vocês.
+Eu utilizarei esse ambiente para reunir aqui alguns projetos que julgo relevante, e aproveitarei para partilha-los com vocês.
 -
--
+## Sobre Mim
 -
 -
 -
