@@ -8,12 +8,14 @@
 
 
 
-### [Versão em Português](https://github.com/gabrielnmiguel#englishSection#portugueseSection) | [English Version](https://github.com/gabrielnmiguel#englishSection#englishSection)
+### [Versão em Português](https://github.com/gabrielnmiguel#englishSection#portugueseSection) | 
+### [English Version](https://github.com/gabrielnmiguel#englishSection#englishSection)
 
-## Bem-vindo ao meu GitHub! {#portugueseSection}
+# Bem-vindo ao meu GitHub! {#portugueseSection}
 
-# Curioso sobre meu portfólio?
-## Acesse o seguinte caminho e sinta-se à vontade para acessa-lo.
+## Curioso sobre meu portfólio?
+
+Acesse o seguinte caminho e sinta-se à vontade para acessa-lo.
 
 [Página Web](https://gabrielnmiguel.github.io/portfolio/ "Clique em mim")
 
