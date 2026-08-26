@@ -20,9 +20,9 @@ e
 
 ### [Português](https://github.com/gabrielnmiguel#olá-me-chamo-gabriel-miguel) / [English](https://github.com/gabrielnmiguel#hello-there-call-me-gabriel-miguel)
 
-# Olá, me chamo Gabriel Miguel!!
+# <font color='red'>Bem-vindo ao meu GitHub!</font> {#portugueseSection}
+Reuno aqui, alguns projetos que julgo ser importante para -
 -
--
 
 
 
@@ -34,12 +34,12 @@ e
 
 
 
--
--
--
 -
 -
 -
+-
+-
+-
  -
  -
  -
@@ -74,7 +74,7 @@ e
 
 
 
-# Hello There, call me Gabriel Miguel!!
+# <font color='green' >Hello There, call me Gabriel Miguel!!</font> {#englishSection}
 
 I'm a **front-end developer**!  
 I'm studying **HTML**, **CSS**, **JavaScript**, **Bootstrap** and **React**.  
