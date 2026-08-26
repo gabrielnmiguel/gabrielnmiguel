@@ -4,18 +4,20 @@
 
 
 
+
+
+
+
+### [Versão em Português](https://github.com/gabrielnmiguel#englishSection#portugueseSection) | [English Version](https://github.com/gabrielnmiguel#englishSection#englishSection)
+
+## Bem-vindo ao meu GitHub! {#portugueseSection}
+
 # Curioso sobre meu portfólio?
 ## Acesse o seguinte caminho e sinta-se à vontade para acessa-lo.
 
-[Página Web](https://gabrielnmiguel.github.io/portfolio/ "Clique aqui")
+[Página Web](https://gabrielnmiguel.github.io/portfolio/ "Clique em mim")
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielnmiguel&repo=portfolio)](https://github.com/gabrielnmiguel/portfolio)
-
-
-
-### [Versão em Português] (#portugueseSection) | [English Version] (#englishSection)
-
-## Bem-vindo ao meu GitHub! {#portugueseSection}
 
 Eu utilizarei esse ambiente para reunir aqui alguns projetos que julgo relevante, e aproveitarei para partilha-los com vocês.
 -
