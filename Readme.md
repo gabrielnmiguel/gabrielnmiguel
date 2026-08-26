@@ -4,7 +4,8 @@
 
 
 
-# **Curioso sobre meu portfólio?** Sinta-se à vontade para conhece-lo.
+# Curioso sobre meu portfólio?
+## Acesse o seguinte caminho e sinta-se à vontade para acessa-lo.
 
 [Página Web](https://gabrielnmiguel.github.io/portfolio/ "Clique aqui")
 
