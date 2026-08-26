@@ -20,7 +20,7 @@ e
 
 ### [Português](https://github.com/gabrielnmiguel#olá-me-chamo-gabriel-miguel) / [English](https://github.com/gabrielnmiguel#hello-there-call-me-gabriel-miguel)
 
-<font color="red">#Bem-vindo ao meu GitHub! {#portugueseSection}</font> 
+#Bem-vindo ao meu GitHub! {#portugueseSection}
 Reuno aqui, alguns projetos que julgo ser importante para -
 -
 
