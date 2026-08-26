@@ -8,13 +8,13 @@
 
 
 
-### [Versão em Português](https://github.com/gabrielnmiguel#englishSection#portugueseSection) | 
+### [Versão em Português](https://github.com/gabrielnmiguel#englishSection#portugueseSection)
 
 ### [English Version](https://github.com/gabrielnmiguel#englishSection#englishSection)
 
 # Bem-vindo ao meu GitHub! {#portugueseSection}
 
-## Curioso sobre meu portfólio?
+**Curioso sobre meu portfólio?**
 
 Acesse o seguinte caminho e sinta-se à vontade para acessa-lo.
 
