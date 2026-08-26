@@ -20,11 +20,9 @@ e
 
 ### [Português](https://github.com/gabrielnmiguel#olá-me-chamo-gabriel-miguel) / [English](https://github.com/gabrielnmiguel#hello-there-call-me-gabriel-miguel)
 
-#Bem-vindo ao meu GitHub! {#portugueseSection}
+# Bem-vindo ao meu GitHub! {#portugueseSection}
 
-Reuno aqui, alguns projetos que julgo ser importante para -
--
-
+Eu utilizarei esse ambiente para reunir aqui alguns projetos que julgo relevante, e aproveitarei para partilhar eles com vocês.
 
 
 
@@ -35,37 +33,6 @@ Reuno aqui, alguns projetos que julgo ser importante para -
 
 
 
--
--
--
--
--
--
- -
- -
- -
- -
- -
- -
- -
- -
- -
- -
- -
- -
- -
- -
- -
- -
- -
- -
- -
- -
- -
- -
- -
- -
- -
 
 
 
@@ -74,8 +41,7 @@ Reuno aqui, alguns projetos que julgo ser importante para -
 
 
 
-
-# <font color='green' >Hello There, call me Gabriel Miguel!!</font> {#englishSection}
+# Welcome to my GitHub page! {#englishSection}
 
 I'm a **front-end developer**!  
 I'm studying **HTML**, **CSS**, **JavaScript**, **Bootstrap** and **React**.  
