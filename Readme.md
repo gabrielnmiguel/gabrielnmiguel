@@ -7,14 +7,13 @@
 
 
 
-
-### [Versão em Português](https://github.com/gabrielnmiguel#englishSection#portugueseSection)
-
-### [English Version](https://github.com/gabrielnmiguel#englishSection#englishSection)
+> ### Versão | Version
+> - [Português](https://github.com/gabrielnmiguel#englishSection#portugueseSection)
+> - [English](https://github.com/gabrielnmiguel#englishSection#englishSection)
 
 # Bem-vindo ao meu GitHub! {#portugueseSection}
 
-**Curioso sobre meu portfólio?**
+**Gostaria de conhecer 0 meu portfólio?**
 
 Acesse o seguinte caminho e sinta-se à vontade para acessa-lo.
 
