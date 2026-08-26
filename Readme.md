@@ -8,13 +8,13 @@
 
 # Bem-vindo ao meu GitHub! {#portugueseSection}
 
-**Gostaria de conhecer 0 meu portfólio?**
-
+**Gostaria de conhecer o meu portfólio?**
 Acesse o seguinte caminho e sinta-se à vontade para acessa-lo.
 
 [Página Web](https://gabrielnmiguel.github.io/portfolio/ "Clique em mim")
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielnmiguel&repo=portfolio)](https://github.com/gabrielnmiguel/portfolio)
+
+## Observações
 
 Eu utilizarei esse ambiente para reunir aqui alguns projetos que julgo relevante, e aproveitarei para partilha-los com vocês.
 -
