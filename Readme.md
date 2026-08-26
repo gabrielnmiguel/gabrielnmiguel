@@ -27,13 +27,13 @@ Eu utilizarei esse ambiente para reunir aqui alguns projetos que julgo relevante
 -
 -
 -
+## Habilidades Técnicas
 -
 -
 -
 -
 -
--
-
+## Habilidades Comportamentais
 
 
 
