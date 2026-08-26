@@ -1,16 +1,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielnmiguel&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
-Testando link
-https://www.youtube.com/watch?v=X9Q-ZljAC2A
-
-e
-
-`https://www.youtube.com/watch?v=X9Q-ZljAC2A`
 
 
 
 
-## **Curioso sobre meu portfólio?** Sinta-se à vontade para conhece-lo.
+# **Curioso sobre meu portfólio?** Sinta-se à vontade para conhece-lo.
 
 [Página Web](https://gabrielnmiguel.github.io/portfolio/ "Clique aqui")
 
@@ -20,9 +14,20 @@ e
 
 ### [Português](https://github.com/gabrielnmiguel#olá-me-chamo-gabriel-miguel) / [English](https://github.com/gabrielnmiguel#hello-there-call-me-gabriel-miguel)
 
-# Bem-vindo ao meu GitHub! {#portugueseSection}
+## Bem-vindo ao meu GitHub! {#portugueseSection}
 
 Eu utilizarei esse ambiente para reunir aqui alguns projetos que julgo relevante, e aproveitarei para partilhar eles com vocês.
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
 
 
 
@@ -30,18 +35,7 @@ Eu utilizarei esse ambiente para reunir aqui alguns projetos que julgo relevante
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-# Welcome to my GitHub page! {#englishSection}
+## Welcome to my GitHub page! {#englishSection}
 
 I'm a **front-end developer**!  
 I'm studying **HTML**, **CSS**, **JavaScript**, **Bootstrap** and **React**.  
