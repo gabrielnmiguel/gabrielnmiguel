@@ -2,14 +2,9 @@
 
 
 
-
-
-
-
-
 > ### Versão | Version
-> - [Português](https://github.com/gabrielnmiguel#englishSection#portugueseSection)
-> - [English](https://github.com/gabrielnmiguel#englishSection#englishSection)
+> - [Português](https://github.com/gabrielnmiguel#englishSection#portugueseSection "Clique em mim")
+> - [English](https://github.com/gabrielnmiguel#englishSection#englishSection "Click Here")
 
 # Bem-vindo ao meu GitHub! {#portugueseSection}
 
@@ -23,6 +18,9 @@ Acesse o seguinte caminho e sinta-se à vontade para acessa-lo.
 
 Eu utilizarei esse ambiente para reunir aqui alguns projetos que julgo relevante, e aproveitarei para partilha-los com vocês.
 -
+
+
+
 ## Sobre Mim
 -
 -
