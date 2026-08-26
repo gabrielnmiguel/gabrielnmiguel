@@ -13,7 +13,7 @@
 
 
 
-### [Versão em Português](#portugueseSection) / [English](#englishSection)
+### [Versão em Português] (#portugueseSection) | [English Version] (#englishSection)
 
 ## Bem-vindo ao meu GitHub! {#portugueseSection}
 
