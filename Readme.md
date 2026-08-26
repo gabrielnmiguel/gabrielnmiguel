@@ -9,6 +9,7 @@
 
 
 ### [Versão em Português](https://github.com/gabrielnmiguel#englishSection#portugueseSection) | 
+
 ### [English Version](https://github.com/gabrielnmiguel#englishSection#englishSection)
 
 # Bem-vindo ao meu GitHub! {#portugueseSection}
